@@ -1,0 +1,2 @@
+Welcome to Git Local Repository
+Learning Git in DevOps
